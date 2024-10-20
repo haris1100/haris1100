@@ -53,11 +53,6 @@ I specialize in **Full-Stack Web Development** and have hands-on experience in v
 
 ---
 
-### 📊 **My GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haris1100&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
 
 ### 🧑‍💻 **About Me**
 
